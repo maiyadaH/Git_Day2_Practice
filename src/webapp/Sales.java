@@ -10,4 +10,7 @@ public class Sales {
     //.....
 
     // more sales page added
+
+
+    // added holiday salse 25%
 }
